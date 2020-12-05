@@ -305,6 +305,10 @@ small {
     header ul{
         display: none;
     }
+        .cover img{
+        width: 100%;
+    }
+  
   
     .menu img{
         width: 100%;
